@@ -16,7 +16,7 @@
  * @modemail    kchantza@csd.auth.gr
  */
 
-package simplejavacalculator;
+package pucrs.s2b.test;
 
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
@@ -119,7 +119,7 @@ public class UI implements ActionListener {
         butCancel.addActionListener(this);
     }
 
-    @Override
+    //@Override
     public void actionPerformed(ActionEvent e) {
         final Object source = e.getSource();
 

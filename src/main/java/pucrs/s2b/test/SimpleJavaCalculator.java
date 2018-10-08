@@ -14,7 +14,7 @@
  * @modemail    contact@achinthagunasekara.com
  */
 
-package simplejavacalculator;
+package pucrs.s2b.test;
 
 public class SimpleJavaCalculator {
 
